@@ -45,6 +45,7 @@ Dalam kode ini akan melakukan beberapa hal, yaitu:
 4. Membuat array kosong dengan dimensi yang sama dengan copyImg1 dan menyimpannya dalam variabel output1.
 5. Mencetak dimensi (tinggi dan lebar) dari copyImg1 dan output1, serta nilai m1 dan n1.
 
+### *Membuat Filter Rata-rata*
 for baris in range(0, m1-1):
     for kolom in range(0, n1-1):
         a1 = baris
